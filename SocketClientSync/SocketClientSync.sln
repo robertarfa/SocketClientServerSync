@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketClientSync", "SocketClientSync.csproj", "{7FEE1B24-C382-45FB-AFEF-6A56571D71D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketServerSync", "..\SocketServerSync\SocketServerSync.csproj", "{C8BC8BFD-494E-4F52-B93A-9076048D924D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FEE1B24-C382-45FB-AFEF-6A56571D71D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FEE1B24-C382-45FB-AFEF-6A56571D71D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FEE1B24-C382-45FB-AFEF-6A56571D71D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FEE1B24-C382-45FB-AFEF-6A56571D71D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8BC8BFD-494E-4F52-B93A-9076048D924D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8BC8BFD-494E-4F52-B93A-9076048D924D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8BC8BFD-494E-4F52-B93A-9076048D924D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8BC8BFD-494E-4F52-B93A-9076048D924D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D096C2DE-ECEB-467C-AF3A-EB0C272C112F}
+	EndGlobalSection
+EndGlobal
